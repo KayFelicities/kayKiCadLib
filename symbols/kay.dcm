@@ -6,4 +6,8 @@ K USB UART Serial Converter Interface
 F https://www.mpja.com/download/35227cpdata.pdf
 $ENDCMP
 #
+$CMP FengNiaoR3
+F https://item.szlcsc.com/1042297.html
+$ENDCMP
+#
 #End Doc Library
